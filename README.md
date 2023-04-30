@@ -46,7 +46,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or concerns about the project, please email recipes@app.com or reach out on Twitter at @recipesapp.
+If you have any questions or concerns about the project, please email fares.q46@gmail.com
 
 ## Screenshots
 
